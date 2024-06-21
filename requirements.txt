@@ -1,0 +1,7 @@
+whisper
+gradio
+tensorflow
+transformers
+ollama
+librosa
+spacy
