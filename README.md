@@ -1,3 +1,6 @@
+**Description**
+Speech Analysis Dashboard created using OpenAI whisper and Ollama.The dashboard analyzes an audio input and produces a transcription of the Audio. Additionally, sentiment analysis is done using a transformer model(distilbert). Ollama is used to generate a summary from the trancription as it seems to generate a better summary compared to transformers.
+
 **Installation Steps**
 
 **Create a virtual environment locally**  
@@ -11,7 +14,7 @@ In macOs / Linux = source env/bin/activate
 **Install Requirements**  
 pip install -r requirements.txt  
 
-**Run application**  
+**Run application** 
 python app.py  
 
 **Screenshot of Interface**  
